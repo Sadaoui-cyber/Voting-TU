@@ -1,0 +1,15 @@
+# Truffle build directory
+/build/
+
+# Truffle artifact files
+/contracts/artifacts/
+
+# Truffle migration files
+/migrations/
+
+# Truffle test files
+/test/
+
+# Truffle network configuration
+/truffle-config.js
+node_modules
